@@ -12,3 +12,7 @@ Approach it with confidence and creativity, you've got this! While you'll encoun
 All project instructions, requirements, and submission details can be found in the **challenge brief**. Make sure to read it carefully before you start. 
 
 🔗 You will find the Challenge Brief in this repo in a markdown file called `CHALLENGE-BRIEF.MD`
+https://www.w3schools.com/html/html_emojis.
+https://www.w3schools.com/html/html_lists_unordered.asp
+https://www.w3schools.com/html/html_tables.asp
+above are all the links that helped in completing the project.
